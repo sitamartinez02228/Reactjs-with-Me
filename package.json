@@ -1,6 +1,6 @@
 {
   "name": "reactjs-with-me",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "React.js tutorials, code snippets, and project-based learning resources.",
   "main": "src/index.js",
   "scripts": {
